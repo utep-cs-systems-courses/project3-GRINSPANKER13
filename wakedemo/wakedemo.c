@@ -62,8 +62,7 @@ void wdt_c_handler()
     redrawScreen = 1;
   }
 }
-  
-void update_shape();
+
 void start();
 void runWithInput();
 void endWithWin();
